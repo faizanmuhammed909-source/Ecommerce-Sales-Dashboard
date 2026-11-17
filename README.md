@@ -23,7 +23,7 @@
 ---
 
 ## Dashboard
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](ecommerce-sales-dashboard.png)
 
 ---
 
